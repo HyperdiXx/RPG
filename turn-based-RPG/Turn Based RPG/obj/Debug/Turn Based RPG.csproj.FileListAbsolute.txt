@@ -1,0 +1,6 @@
+D:\Projects\Work\C#\Turn Based RPG\Turn Based RPG\bin\Debug\TurnBasedRPG.exe
+D:\Projects\Work\C#\Turn Based RPG\Turn Based RPG\bin\Debug\TurnBasedRPG.pdb
+D:\Projects\Work\C#\Turn Based RPG\Turn Based RPG\obj\Debug\Turn Based RPG.csprojResolveAssemblyReference.cache
+D:\Projects\Work\C#\Turn Based RPG\Turn Based RPG\obj\Debug\Turn Based RPG.csproj.CoreCompileInputs.cache
+D:\Projects\Work\C#\Turn Based RPG\Turn Based RPG\obj\Debug\TurnBasedRPG.exe
+D:\Projects\Work\C#\Turn Based RPG\Turn Based RPG\obj\Debug\TurnBasedRPG.pdb
